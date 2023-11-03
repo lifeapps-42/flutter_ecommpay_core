@@ -69,6 +69,24 @@ packages:
       relative: true
     source: path
     version: "0.0.1"
+  flutter_ecommpay_core_ios:
+    dependency: transitive
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: b40d613c5479da1f3d07e138e41bdb70b7b25d3d
+      url: "https://github.com/lifeapps-42/flutter_ecommpay_core_ios"
+    source: git
+    version: "0.0.1"
+  flutter_ecommpay_core_platform_interface:
+    dependency: transitive
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "4e7402323da2a6e2f0207438db7e4938fb5a8638"
+      url: "https://github.com/lifeapps-42/flutter_ecommpay_core_platform_interface"
+    source: git
+    version: "0.0.1"
   flutter_lints:
     dependency: "direct dev"
     description:

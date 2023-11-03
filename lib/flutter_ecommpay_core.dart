@@ -5,7 +5,7 @@
 // platforms in the `pubspec.yaml` at
 // https://flutter.dev/docs/development/packages-and-plugins/developing-packages#plugin-platforms.
 
-import 'flutter_ecommpay_core_platform_interface.dart';
+import 'package:flutter_ecommpay_core_platform_interface/flutter_ecommpay_core_platform_interface_platform_interface.dart';
 
 class FlutterEcommpayCore {
   Future<String?> getPlatformVersion() {
